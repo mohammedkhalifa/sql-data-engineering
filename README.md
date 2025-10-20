@@ -18,10 +18,10 @@ This solution follows the Medallion Architecture design, structured into Bronze,
 
 The project demonstrates how to:
 
-1. **Design**: a scalable data warehouse based on Medallion Architecture principles.
-2. **Build ETL Pipelines**: that extract, transform, and load data from multiple sources.
-3. **Model Data**: into fact and dimension tables optimized for performance and usability.
-4. **Generate Insights**: through SQL queries and dashboards, turning data into actionable intelligence.
+1. **Design** a scalable data warehouse based on Medallion Architecture principles.
+2. **Build ETL Pipelines** that extract, transform, and load data from multiple sources.
+3. **Model Data** into fact and dimension tables optimized for performance and usability.
+4. **Generate Insights** through SQL queries and dashboards, turning data into actionable intelligence.
 
 ---
 
