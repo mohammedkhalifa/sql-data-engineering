@@ -6,6 +6,7 @@ This project showcases a complete end-to-end implementation of a modern data war
 ## 🏗️ Data Architecture Overview
 
 This solution follows the Medallion Architecture design, structured into Bronze, Silver, and Gold layers:
+
 ![Data Architecture](docs/data_architecture.png)
 
 1. **Bronze Layer**: Contains the unprocessed data directly ingested from the original sources. CSV files are loaded into a SQL Server database without modification.
