@@ -16,7 +16,7 @@ This solution follows the Medallion Architecture design, structured into Bronze,
 ---
 ## 📖 Project Summary
 
-The project demonstrates how to:
+The project demonstrates the following:
 
 1. **Design** a scalable data warehouse based on Medallion Architecture principles.
 2. **Build ETL Pipelines** that extract, transform, and load data from multiple sources.
